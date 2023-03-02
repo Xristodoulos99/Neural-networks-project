@@ -1,0 +1,6 @@
+
+This project's idea was not to create a SVM from scratch like the first one, but to implement the one from SKLEARN and play around its variables 
+to make usefull conclusions as to what effects what.
+The SVM is used to classify even and odd numbers of the mnist dataset(handwriten digits)
+
+Then the svm is compated with the knn methods from the 1st project
