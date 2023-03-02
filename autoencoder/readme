@@ -1,1 +1,7 @@
+Project 3
 
+In this project an autoencoder was used on the dataset (MNIST HANDWRITEN DIGITS) in order to try to clear the images or remove to noise.
+The idea was to try and pass those digits later to the NN of the first project to see if passing clearer data though that gives a better result.
+Encoder was compared with a PCA as well.
+
+At the end the clear data were given to the NN with 2 ways: As a training set only, and as a testing set only(with the nn having trained on the default ones)
